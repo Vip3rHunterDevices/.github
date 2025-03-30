@@ -1,4 +1,6 @@
-# Vip3rHunterDevices
+<div id="header" align="center">
+  <img src="https://github.com/Vip3rHunterDevices/.github/blob/main/assets/img/banner.gif?raw=true" width="1000" />
+</div>
 
 ### 🐍 Unleash the Hunt. Power the Viper.
 
